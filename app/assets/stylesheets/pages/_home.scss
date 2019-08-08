@@ -1,1 +1,20 @@
 // Specific CSS for your home-page
+body {
+  background-color: white;
+}
+
+.card {
+  margin: 10px;
+  box-shadow: 0 0 6px rgba(0,0,0,0.07);
+}
+
+.btn {
+  border-radius: 5px;
+  color: white;
+}
+
+.head-text {
+  text-align: center;
+  margin: 30px;
+  color: #7A7978;
+}
